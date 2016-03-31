@@ -1,8 +1,8 @@
 body {
 	font-family: Roboto;
-	background: #403B4A;
-	background: -webkit-linear-gradient(to left, #403B4A , #E7E9BB);
-	background: linear-gradient(to left, #403B4A , #E7E9BB); 
+	background: #003973;
+	background: -webkit-linear-gradient(to left, #003973 , #E5E5BE);
+	background: linear-gradient(to left, #003973 , #E5E5BE);
 }
 
 #container {
