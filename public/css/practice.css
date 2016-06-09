@@ -1,0 +1,8 @@
+.head-row {
+	/*border: 1px solid blue;*/
+}
+
+#map-canvas {
+	width: 100%;
+	height: 500px;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "my first express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond Kim",
+  "license": "ISC",
+  "dependencies": {
+    "cat-me": "^1.0.2",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {}
+}
